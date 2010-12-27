@@ -63,6 +63,6 @@ void main(void)
             else if(przejscia>=5)wykonaj(przycisk);//dla reszty odstep to 500ms
         }
         else przejscia = 5; //jezeli nic nie jest wcisniete, przejscia ustawione na 5, nie trzeba trzymac zeby załapało, wystarczy nacisnac
-        usleep(100000); 
+        usleep(100000); //MEGALAME!
     }
 }
