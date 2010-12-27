@@ -12,6 +12,7 @@ Requiremets
 Features
 --------
 So far:
+
 * controlling system volume
 * basic controls of music player daemon
 
@@ -27,5 +28,6 @@ TODO
 
 Version history?
 ----------------
-*0.0.1 - first version published on github, not really useful, but working :)
+* 0.0.1 - first version published on github, not really useful, but working :)
+
 made with help of Rocket
